@@ -23,6 +23,11 @@ Ready to dive into machine learning with Python? This hands-on course is your co
 
 Along the way, you'll tackle real-world exercises in data processing, cleaning, and creating machine learning models, giving you the practical experience needed to work professionally. Taught by Eirik and Stine, this course ensures you gain a deep understanding of Scikit-Learn and machine learning.
 
+**Testimonials**:
+- *Good explanation of concepts. Easy to follow along. Byte-sized videos. Hands-on skill acquisition.*
+- *Excellent, clear, hands-on.*
+- *This is an excellent course, well structured and well explained.*
+
 [Purchase Master Machine Learning in Python with Scikit-Learn for 49.90$](https://www.udemy.com/course/master-machine-learning-in-python-with-scikit-learn/?couponCode=NOVEMBER_50_OFFER)
 
 ## Master Scientific Computing in Python with NumPy
@@ -31,6 +36,11 @@ Ready to master scientific computing with Python? This hands-on, comprehensive c
 
 You’ll begin with the basics and progress from the basics of NumPy to topics like the Fourier transform and advanced linear algebra. With engaging exercises and expert instruction from Eirik and Stine, you’ll gain the confidence to tackle complex computations with NumPy.
 
+**Testimonials**:
+- *If you know very little or nothing pertaining to NumPy, then this would be an excellent first course for you.*
+- *Excellent course, good examples, clear communication, good exercises and not too long.*
+- *Great course. Well focused on the essential information and well-presented.*
+
 [Purchase Master Scientific Computing in Python with NumPy for 49.90$](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=NOVEMBER_50_OFFER)
 
 ## Master Academic Typesetting with LaTeX
@@ -38,6 +48,12 @@ You’ll begin with the basics and progress from the basics of NumPy to topics l
 Are you looking to create professional-grade documents with LaTeX, but don’t know where to start? This course is the perfect introduction! Whether you need to write a thesis, research paper, or book, we’ll guide you through the process with clear, frustration-free lessons. Taught by Eirik and Stine that have over 10 years of combined experience with LaTeX. 
 
 This course covers everything from basic document structure to advanced features like math formatting, citations, and creating figures with TikZ. By the end, you’ll be confident using LaTeX and Overleaf to produce polished, academic-level documents. Plus, with quizzes, projects, and personalized support, you’ll master LaTeX in no time!
+
+**Testimonials**:
+- *Great course! It was very enjoyable learning LaTeX, I am telling all my friends about it! The instructors were very good and each section was very understandable.*
+- *Very informative and easy to follow, excellent class for beginners.*
+- *I've had some experience with LaTeX before so not that much new content for me however it is nicely presented and I still learn some useful syntax.*
+
 
 [Purchase Master Academic Typesetting with LaTeX for 49.90$](https://www.udemy.com/course/mastering-latex/?couponCode=NOVEMBER_50_OFFER)
 
