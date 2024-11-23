@@ -23,7 +23,7 @@ Ready to dive into machine learning with Python? This hands-on course is your co
 
 Along the way, you'll tackle real-world exercises in data processing, cleaning, and creating machine learning models, giving you the practical experience needed to work professionally. Taught by Eirik and Stine, this course ensures you gain a deep understanding of Scikit-Learn and machine learning.
 
-[Purchase the course for 49.90$](https://www.udemy.com/course/master-machine-learning-in-python-with-scikit-learn/?couponCode=NOVEMBER_50_OFFER)
+[Purchase Master Machine Learning in Python with Scikit-Learn for 49.90$](https://www.udemy.com/course/master-machine-learning-in-python-with-scikit-learn/?couponCode=NOVEMBER_50_OFFER)
 
 ## Master Scientific Computing in Python with NumPy
 
@@ -31,7 +31,7 @@ Ready to master scientific computing with Python? This hands-on, comprehensive c
 
 You’ll begin with the basics and progress from the basics of NumPy to topics like the Fourier transform and advanced linear algebra. With engaging exercises and expert instruction from Eirik and Stine, you’ll gain the confidence to tackle complex computations with NumPy.
 
-[Purchase the course for 49.90$](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=NOVEMBER_50_OFFER)
+[Purchase Master Scientific Computing in Python with NumPy for 49.90$](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=NOVEMBER_50_OFFER)
 
 ## Master Academic Typesetting with LaTeX
 
@@ -39,7 +39,7 @@ Are you looking to create professional-grade documents with LaTeX, but don’t k
 
 This course covers everything from basic document structure to advanced features like math formatting, citations, and creating figures with TikZ. By the end, you’ll be confident using LaTeX and Overleaf to produce polished, academic-level documents. Plus, with quizzes, projects, and personalized support, you’ll master LaTeX in no time!
 
-[Purchase the course for 49.90$](https://www.udemy.com/course/mastering-latex/?couponCode=NOVEMBER_50_OFFER)
+[Purchase Master Academic Typesetting with LaTeX for 49.90$](https://www.udemy.com/course/mastering-latex/?couponCode=NOVEMBER_50_OFFER)
 
 # Our (Free) Content on YouTube
 
