@@ -37,10 +37,16 @@ Below you can see a small selection of what is available on our YouTube channel.
 
 # What we have planned?
 
+Currently, we are working on a course about Linear Programming. We are super stoked about working on a course closer to mathematics. 
+
+This takes a while, but it will hopefully be finished in 2025 and will be available on Udemy.
+
+In the meantime, we are also making smaller videos and shorter courses on YouTube. Subscribe to our [YouTube channel]((https://www.youtube.com/@TMQuest)) to get updates on this on YouTube. 
+
 # Q & A
 
 *   **Can I suggest a video topic to you?** - Of course! We can't promise that we will make it (maybe we don't feel confident in the topic), but we are always glad for suggestions! Simply make a comment on one of our YouTube videos suggesting another topic. We check all comments we get 🥰
 
 *   **Can I just find your courses by searching for them on Udemy?** - Yes, but we would prefer you to follow the links above. They use a promotional code "under the hood" so that you don't pay the full amount. Additionally, we get a larger share of the profits if you purchase the courses after following the links.
-*   
+
 *   **Could you not self-host courses rather than use Udemy?** - At the moment no, unfortunately. We don't have the (technical & mental) capacity to set up a full-scale hosting service with authentication, payment methods, content delivery, and so on. For now, you have to watch our full-scale courses on Udemy.
