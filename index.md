@@ -5,7 +5,7 @@ title: Technology and Mathematics Quest
 
 # Who're we?
 
-We're a couple (Stine and Eirik) that loves to teach data science, programming, and mathematics ✨ 
+We're a couple (Stine and Eirik) that loves to teach data science, programming, and mathematics 👩‍❤️‍👨
 
 For several years we have made video courses and love to take our experiences from offline teaching and apply them to create engaging courses!
 
@@ -39,7 +39,7 @@ Below you can see a small selection of what is available on our YouTube channel.
 
 # What we have planned?
 
-Currently, we are working on a course about Linear Programming. We are super stoked about working on a course closer to mathematics. 
+Currently, we are working on a course about Linear Programming. We are super stoked about working on a course closer to mathematics ✨
 
 This takes a while, but it will hopefully be finished in 2025 and will be available on Udemy.
 
