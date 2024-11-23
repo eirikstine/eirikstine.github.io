@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Technology and Mathematics Quest
 ---
 
 # Who're we?
