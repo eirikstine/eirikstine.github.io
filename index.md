@@ -5,13 +5,15 @@ title: Technology and Mathematics Quest
 
 # Who're we?
 
-We're a couple (Stine and Eirik) that loves teaching data science, programming, and mathematics. When teaching at the university level, we learned to polish our teaching abilities. 
+We're a couple (Stine and Eirik) that loves to teach data science, programming, and mathematics ✨ 
+
+For several years we have made video courses and love to take our experiences from offline teaching and apply them to create engaging courses!
 
 We love to teach others new things and care a lot about many topics with technology and mathematics. We have made both full-scale courses on Udemy and free content on YouTube (scroll further down &#128512;).
 
-# Our Full Udemy Courses
+# Our (Paid) Full Udemy Courses
 
-We've made full Udemy courses on the topics **Machine Learning with Scikit-Learn**, **Scientific Computing with NumPy**, and **Academic Typesetting with LaTeX**. 
+We've made full Udemy courses that go into depth of a single interesting topic 🔥
 
 The courses are packed with informational videos, quizzes, exercises, projects, and more!
 
@@ -21,7 +23,7 @@ By following the links below, you can support us by purchasing each course on Ud
 *   [Master Scientific Computing in Python with NumPy](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=NOVEMBER_50_OFFER)
 *   [Master Academic Typesetting with LaTeX](https://www.udemy.com/course/mastering-latex/?couponCode=NOVEMBER_50_OFFER)
 
-# Our Free Content on YouTube
+# Our (Free) Content on YouTube
 
 In addition to our paid courses on Udemy, we have loads of free YouTube videos that explain different concepts.
 
