@@ -15,27 +15,15 @@ We love to teach others new things and care a lot about many topics with technol
 
 In addition to our paid courses on Udemy, we have loads of free YouTube videos that explain different concepts.
 
-Check out our channel here: https://www.youtube.com/@TMQuest
+[Check out our YouTube channel](https://www.youtube.com/@TMQuest)
 
-Below you can see a small selection of what is available on our YouTube channel. Subscribe for more content like this!
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1 0 30%; max-width: 30%;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0tv6ehKCZJQ?si=t66o9O1glb_MB6zm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-  <div style="flex: 1 0 30%; max-width: 30%;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0tv6ehKCZJQ?si=t66o9O1glb_MB6zm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-  <div style="flex: 1 0 30%; max-width: 30%;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0tv6ehKCZJQ?si=t66o9O1glb_MB6zm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-  <div style="flex: 1 0 30%; max-width: 30%;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0tv6ehKCZJQ?si=t66o9O1glb_MB6zm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-</div>
-
+Below you can see a small selection of what is available on our YouTube channel. Subscribe for more content like this! ❤️
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0tv6ehKCZJQ?si=t66o9O1glb_MB6zm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQj87uFm-_s?si=8ad1zltP6t4yHnJd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C-ewQzv-QH8?si=rPpSWD3mEFWFCyHZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # What we have planned?
 
