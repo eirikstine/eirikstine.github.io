@@ -3,6 +3,10 @@ layout: default
 title: Technology and Mathematics Quest
 ---
 
+<header class="page-header" role="banner">
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+</header>
+
 # Who're we?
 
 We're a couple (Stine and Eirik) that loves to teach data science, programming, and mathematics 👩‍❤️‍👨
