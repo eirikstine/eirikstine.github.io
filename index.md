@@ -9,19 +9,37 @@ We're a couple (Stine and Eirik) that loves to teach data science, programming, 
 
 For several years we have made video courses and love to take our experiences from offline teaching and apply them to create engaging courses!
 
-We love to teach others new things and care a lot about many topics with technology and mathematics. We have made both full-scale courses on Udemy and free content on YouTube (scroll further down &#128512;).
+We care a lot about many topics with technology and mathematics. We have made both full-scale courses on Udemy and free content on YouTube (scroll further down for both &#128512;).
 
 # Our (Paid) Full Udemy Courses
 
-We've made full Udemy courses that go into depth of a single interesting topic 🔥
+We've made full Udemy courses that go into depth of interesting topics. 
 
-The courses are packed with informational videos, quizzes, exercises, projects, and more!
+The courses are packed with informational videos, quizzes, exercises, projects, and more 🔥
 
-By following the links below, you can support us by purchasing each course on Udemy!
+## Master Machine Learning in Python with Scikit-Learn
 
-*   [Master Machine Learning in Python with Scikit-Learn](https://www.udemy.com/course/master-machine-learning-in-python-with-scikit-learn/?couponCode=NOVEMBER_50_OFFER)
-*   [Master Scientific Computing in Python with NumPy](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=NOVEMBER_50_OFFER)
-*   [Master Academic Typesetting with LaTeX](https://www.udemy.com/course/mastering-latex/?couponCode=NOVEMBER_50_OFFER)
+Ready to dive into machine learning with Python? This hands-on course is your comprehensive introduction to Scikit-Learn, the most popular library for machine learning tasks. Whether you’re a beginner or looking to sharpen your skills, we’ll guide you from the basics to advanced techniques, including regression, decision trees, SVMs, and neural networks. 
+
+Along the way, you'll tackle real-world exercises in data processing, cleaning, and creating machine learning models, giving you the practical experience needed to work professionally. Taught by Eirik and Stine, this course ensures you gain a deep understanding of Scikit-Learn and machine learning.
+
+[Purchase the course for 49.90$](https://www.udemy.com/course/master-machine-learning-in-python-with-scikit-learn/?couponCode=NOVEMBER_50_OFFER)
+
+## Master Scientific Computing in Python with NumPy
+
+Ready to master scientific computing with Python? This hands-on, comprehensive course will teach you everything you need to know about NumPy, the powerful library at the core of scientific computing, linear algebra, image processing, and more. 
+
+You’ll begin with the basics and progress from the basics of NumPy to topics like the Fourier transform and advanced linear algebra. With engaging exercises and expert instruction from Eirik and Stine, you’ll gain the confidence to tackle complex computations with NumPy.
+
+[Purchase the course for 49.90$](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=NOVEMBER_50_OFFER)
+
+## Master Academic Typesetting with LaTeX
+
+Are you looking to create professional-grade documents with LaTeX, but don’t know where to start? This course is the perfect introduction! Whether you need to write a thesis, research paper, or book, we’ll guide you through the process with clear, frustration-free lessons. Taught by Eirik and Stine that have over 10 years of combined experience with LaTeX. 
+
+This course covers everything from basic document structure to advanced features like math formatting, citations, and creating figures with TikZ. By the end, you’ll be confident using LaTeX and Overleaf to produce polished, academic-level documents. Plus, with quizzes, projects, and personalized support, you’ll master LaTeX in no time!
+
+[Purchase the course for 49.90$](https://www.udemy.com/course/mastering-latex/?couponCode=NOVEMBER_50_OFFER)
 
 # Our (Free) Content on YouTube
 
@@ -29,7 +47,9 @@ In addition to our paid courses on Udemy, we have loads of free YouTube videos t
 
 [Check out our YouTube channel](https://www.youtube.com/@TMQuest)
 
-Below you can see a small selection of what is available on our YouTube channel. Subscribe for more content like this! ❤️
+Subscribe to our YouTube channel to support us and get new videos ❤️
+
+Below you can see a small selection of what is available on our YouTube channel:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0tv6ehKCZJQ?si=t66o9O1glb_MB6zm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
