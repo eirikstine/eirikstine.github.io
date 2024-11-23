@@ -5,7 +5,7 @@ title: Technology and Mathematics Quest
 
 # Who're we?
 
-We're a couple that loves teaching topics within data science, programming, and mathematics. When teaching at the university level, we learned to polish our teaching abilities. 
+We're a couple (Stine and Eirik) that loves teaching data science, programming, and mathematics. When teaching at the university level, we learned to polish our teaching abilities. 
 
 We love to teach others new things and care a lot about many topics with technology and mathematics. We have made both full-scale courses on Udemy and free content on YouTube (scroll further down &#128512;).
 
