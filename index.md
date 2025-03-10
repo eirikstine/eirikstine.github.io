@@ -28,7 +28,7 @@ Along the way, you'll tackle real-world exercises in data processing, cleaning, 
 - *Excellent, clear, hands-on.*
 - *This is an excellent course, well structured and well explained.*
 
-[Purchase Master Machine Learning in Python with Scikit-Learn for 12.99$](https://www.udemy.com/course/master-machine-learning-in-python-with-scikit-learn/?couponCode=JAN-FEB-OFFER)
+[Purchase Master Machine Learning in Python with Scikit-Learn for 12.99$](https://www.udemy.com/course/master-machine-learning-in-python-with-scikit-learn/?couponCode=MARCH-OFFER)
 
 ## Master Scientific Computing in Python with NumPy
 
@@ -41,7 +41,7 @@ You’ll begin with the basics and progress from the basics of NumPy to topics l
 - *Excellent course, good examples, clear communication, good exercises and not too long.*
 - *Great course. Well focused on the essential information and well-presented.*
 
-[Purchase Master Scientific Computing in Python with NumPy for 12.99$](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=JAN-FEB-OFFER)
+[Purchase Master Scientific Computing in Python with NumPy for 12.99$](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=MARCH-OFFER)
 
 ## Master Academic Typesetting with LaTeX
 
@@ -55,7 +55,7 @@ This course covers everything from basic document structure to advanced features
 - *I've had some experience with LaTeX before so not that much new content for me however it is nicely presented and I still learn some useful syntax.*
 
 
-[Purchase Master Academic Typesetting with LaTeX for 12.99$](https://www.udemy.com/course/mastering-latex/?couponCode=JAN-FEB-OFFER)
+[Purchase Master Academic Typesetting with LaTeX for 12.99$](https://www.udemy.com/course/mastering-latex/?couponCode=MARCH-OFFER)
 
 # Our (Free) Content on YouTube
 
