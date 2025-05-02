@@ -28,7 +28,7 @@ Along the way, you'll tackle real-world exercises in data processing, cleaning, 
 - *Excellent, clear, hands-on.*
 - *This is an excellent course, well structured and well explained.*
 
-[Purchase Master Machine Learning in Python with Scikit-Learn for 12.99$](https://www.udemy.com/course/master-machine-learning-in-python-with-scikit-learn/?couponCode=MARCH-OFFER)
+[Purchase Master Machine Learning in Python with Scikit-Learn](https://www.udemy.com/course/master-machine-learning-in-python-with-scikit-learn/?couponCode=SALE-MAY)
 
 ## Master Scientific Computing in Python with NumPy
 
@@ -41,7 +41,7 @@ You’ll begin with the basics and progress from the basics of NumPy to topics l
 - *Excellent course, good examples, clear communication, good exercises and not too long.*
 - *Great course. Well focused on the essential information and well-presented.*
 
-[Purchase Master Scientific Computing in Python with NumPy for 12.99$](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=MARCH-OFFER)
+[Purchase Master Scientific Computing in Python with NumPy](https://www.udemy.com/course/scientific-computing-with-numpy/?couponCode=SALE-MAY)
 
 ## Master Academic Typesetting with LaTeX
 
@@ -55,7 +55,7 @@ This course covers everything from basic document structure to advanced features
 - *I've had some experience with LaTeX before so not that much new content for me however it is nicely presented and I still learn some useful syntax.*
 
 
-[Purchase Master Academic Typesetting with LaTeX for 12.99$](https://www.udemy.com/course/mastering-latex/?couponCode=MARCH-OFFER)
+[Purchase Master Academic Typesetting with LaTeX](https://www.udemy.com/course/mastering-latex/?couponCode=SALE-MAY)
 
 # Our (Free) Content on YouTube
 
@@ -72,14 +72,6 @@ Below you can see a small selection of what is available on our YouTube channel:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NQj87uFm-_s?si=8ad1zltP6t4yHnJd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C-ewQzv-QH8?si=rPpSWD3mEFWFCyHZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# What we have planned?
-
-Currently, we are working on a course about Linear Programming. We are super stoked about working on a course closer to mathematics ✨
-
-This takes a while, but it will hopefully be finished in 2025 and will be available on Udemy.
-
-In the meantime, we are also making smaller videos and shorter courses on YouTube. Subscribe to our [YouTube channel]((https://www.youtube.com/@TMQuest)) to get updates on this on YouTube. 
 
 # Q & A
 
